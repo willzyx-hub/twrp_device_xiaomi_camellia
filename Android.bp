@@ -1,6 +1,6 @@
 soong_namespace {
     imports: [
         "device/xiaomi/camellia/gpt-utils",
-        "device/xiaomi/bootctrl",
+        "device/xiaomi/camellia/bootctrl",
     ],
 }
