@@ -165,6 +165,7 @@ TARGET_USES_LOGD := true
 TARGET_USES_MKE2FS := true
 TW_EXCLUDE_TWRPAPP := true
 TW_SCREEN_BLANK_ON_BOOT := true
+TW_LOAD_VENDOR_MODULES := "modules.alias modules.dep modules.load modules.softdep"
 TW_HAS_MTP := true
 
 PLATFORM_SECURITY_PATCH := 2099-12-31
